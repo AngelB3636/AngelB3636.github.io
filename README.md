@@ -27,3 +27,9 @@
  <p class="p1">The Golem route is quicker. However, the Desert Temple route has a chance of spawning gold ingots, which are needed later.During this step, you can also loot houses in the village to find beds, which are needed to kill the Ender Dragon quickly
  </p>
 </text4>
+.p1 {
+  font-family: "Papyrus", "Copperplate", Fantasy;
+}
+body {
+  background-color: #e3dac9;
+}
